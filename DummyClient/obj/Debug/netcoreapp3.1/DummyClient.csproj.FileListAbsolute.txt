@@ -1,0 +1,45 @@
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csprojAssemblyReference.cache
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.dll
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.pdb
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CopyComplete
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.deps.json
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.json
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.dev.json
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.exe
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.dll
+C:\Users\USER-001\source\repos\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.pdb
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.deps.json
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.json
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.runtimeconfig.dev.json
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.exe
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.exe
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.deps.json
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.json
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.runtimeconfig.dev.json
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.dll
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\DummyClient.pdb
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.dll
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.dll
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\PacketGenerator.pdb
+F:\학교 파일들\ThreadServer\DummyClient\bin\Debug\netcoreapp3.1\ServerCore.pdb
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.AssemblyReference.cache
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfoInputs.cache
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.AssemblyInfo.cs
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CoreCompileInputs.cache
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.csproj.CopyComplete
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.dll
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.pdb
+F:\학교 파일들\ThreadServer\DummyClient\obj\Debug\netcoreapp3.1\DummyClient.genruntimeconfig.cache

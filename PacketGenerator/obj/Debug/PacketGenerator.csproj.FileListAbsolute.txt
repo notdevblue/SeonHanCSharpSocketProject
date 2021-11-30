@@ -1,0 +1,27 @@
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\bin\PacketGenerator.exe
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\bin\PacketGenerator.deps.json
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\bin\PacketGenerator.dll
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\bin\PacketGenerator.pdb
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\Users\USER-001\source\repos\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.csprojAssemblyReference.cache
+F:\학교 파일들\ThreadServer\PacketGenerator\bin\PacketGenerator.exe
+F:\학교 파일들\ThreadServer\PacketGenerator\bin\PacketGenerator.deps.json
+F:\학교 파일들\ThreadServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.json
+F:\학교 파일들\ThreadServer\PacketGenerator\bin\PacketGenerator.runtimeconfig.dev.json
+F:\학교 파일들\ThreadServer\PacketGenerator\bin\PacketGenerator.dll
+F:\학교 파일들\ThreadServer\PacketGenerator\bin\PacketGenerator.pdb
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.csproj.AssemblyReference.cache
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.dll
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.pdb
+F:\학교 파일들\ThreadServer\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
