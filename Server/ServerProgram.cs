@@ -8,14 +8,17 @@ using System.Threading.Tasks;
 
 namespace Server
 {
-        
-    
-
     class ServerProgram
     {
         static Listener _listener = new Listener();
 
         public static GameRoom Room = new GameRoom();
+
+        static void FlushRoom()
+        {
+            Room.Push(() => Room.Flush());
+            JobTimer.Instance.Push(FlushRoom, 250);
+        }
 
         static void Main(string[] args)
         {
@@ -29,9 +32,15 @@ namespace Server
             IPEndPoint endPoint = new IPEndPoint(ipAddr, 54000);
 
             _listener.Init(endPoint, () => SessionManager.Instance.Generate());
+
+            int roomTick = 0;
+
+            FlushRoom();
+
+
             while (true)
             {
-                ; // 잡큐
+                JobTimer.Instance.Flush();
             }
         }
     }

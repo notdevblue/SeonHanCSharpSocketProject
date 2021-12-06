@@ -17,7 +17,9 @@ class PacketHandler
             return; //방에 들어오지도 않은 세션이 메시지를 보내면 잘못된 거
         }
 
-        clientSession.Room.Push(() => clientSession.Room.BroadCast(clientSession, p.chat));
+        GameRoom room = clientSession.Room;
+        room.Push(() => room.BroadCast(clientSession, p.chat));
+        //clientSession.Room.Push(() => clientSession.Room.BroadCast(clientSession, p.chat));
     }
 
 }

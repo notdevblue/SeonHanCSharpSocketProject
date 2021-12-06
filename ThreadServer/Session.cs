@@ -14,6 +14,8 @@ namespace ServerCore
         public sealed override int OnRecv(ArraySegment<byte> buffer)
         {
             int processLen = 0;
+            int packetCount = 0;
+
             while(true)
             {
                 if(buffer.Count < HeaderSize)
@@ -30,8 +32,13 @@ namespace ServerCore
                 processLen += dataSize;
 
                 OnRecvPacket(new ArraySegment<byte>(buffer.Array, buffer.Offset, dataSize));
+                ++packetCount;
                 buffer = new ArraySegment<byte>(
                     buffer.Array, buffer.Offset + dataSize, buffer.Count - dataSize);
+            }
+            if (packetCount > 1)
+            {
+                Console.WriteLine($"패킷을 모아 받음: {packetCount}");
             }
             return processLen;
         }
@@ -43,7 +50,7 @@ namespace ServerCore
     {
         Socket _socket;
         int _disconnected = 0; //멤버변수
-        RecvBuffer _recvBuffer = new RecvBuffer(2048);
+        RecvBuffer _recvBuffer = new RecvBuffer(65535);
 
         SocketAsyncEventArgs _sendArgs = new SocketAsyncEventArgs();
         Queue<ArraySegment<byte>> _sendQueue = new Queue<ArraySegment<byte>>();
@@ -74,7 +81,6 @@ namespace ServerCore
         public abstract void OnSend(int numOfBytes);
         public abstract void OnDisconnected(EndPoint endPoint);
 
-        //이부분은 나중에 구현합시다.
         public void Send(ArraySegment<byte> sendBuffer)
         {
             lock(_lock)
@@ -83,6 +89,20 @@ namespace ServerCore
                 
                 //현재 보내려고 대기중인 애가 없는거야.
                 if(_pendingList.Count == 0)
+                {
+                    RegisterSend();
+                }
+            }
+        }
+
+        public void Send(List<ArraySegment<byte>> sendBufferList)
+        {
+            lock (_lock)
+            {
+
+                sendBufferList.ForEach(x => _sendQueue.Enqueue(x));
+
+                if (_pendingList.Count == 0)
                 {
                     RegisterSend();
                 }

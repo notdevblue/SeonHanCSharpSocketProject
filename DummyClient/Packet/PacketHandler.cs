@@ -13,10 +13,10 @@ class PacketHandler
         ServerSession serverSession = session as ServerSession;
 
 
-        if (cbPacket.playerId == 1)
-        {
-            Console.WriteLine(cbPacket.chat);
-        }
+        //if (cbPacket.playerId == 1)
+        //{
+        //    Console.WriteLine(cbPacket.chat);
+        //}
     }
 }
 

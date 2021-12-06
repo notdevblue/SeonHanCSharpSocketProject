@@ -40,7 +40,7 @@ namespace Server
 
         public override void OnSend(int numOfBytes)
         {
-            Console.WriteLine($"전송된 바이트 수 : {numOfBytes}");
+            //Console.WriteLine($"전송된 바이트 수 : {numOfBytes}");
         }
     }
 }

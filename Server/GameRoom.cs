@@ -9,9 +9,9 @@ namespace Server
     {
         List<ClientSession> _sessions = new List<ClientSession>();
 
-        object _lock = new object();
-
         JobQueue _jobQueue = new JobQueue();
+
+        List<ArraySegment<byte>> _pendingList = new List<ArraySegment<byte>>();
 
         public void Push(Action job)
         {
@@ -21,35 +21,34 @@ namespace Server
 
         public void Enter(ClientSession session)
         {
-            lock(_lock)
-            {
-                _sessions.Add(session);
-                session.Room = this;
-            }
+            _sessions.Add(session);
+            session.Room = this;
+            
         }
 
         public void Leave(ClientSession session)
         {
-            lock (_lock)
-            {
-                _sessions.Remove(session);
-            }
+            _sessions.Remove(session);
+            
         }
 
         public void BroadCast(ClientSession session, string chat)
         {
-            Console.WriteLine("Broadcast");
             ChatBroad chatBroad = new ChatBroad();
             chatBroad.playerId = session.sessionId;
             chatBroad.chat = chat;
 
             ArraySegment<byte> segment = chatBroad.Write();
 
-            lock(_lock)
-            {
-                _sessions.ForEach(x => x.Send(segment));
-            }
+            _pendingList.Add(segment);
         }
 
+        public void Flush()
+        {
+            _sessions.ForEach(x => x.Send(_pendingList));
+
+            Console.WriteLine($"FLUSHED {_pendingList.Count} item");
+            _pendingList.Clear();
+        }
     }
 }

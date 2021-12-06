@@ -17,3 +17,13 @@ F:\학교 파일들\ThreadServer\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore
 F:\학교 파일들\ThreadServer\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.csproj.CoreCompileInputs.cache
 F:\학교 파일들\ThreadServer\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.dll
 F:\학교 파일들\ThreadServer\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.pdb
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\bin\Debug\netcoreapp3.1\ServerCore.deps.json
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\bin\Debug\netcoreapp3.1\ServerCore.dll
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\bin\Debug\netcoreapp3.1\ServerCore.pdb
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.csproj.AssemblyReference.cache
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfoInputs.cache
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.AssemblyInfo.cs
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.csproj.CoreCompileInputs.cache
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.dll
+F:\학교 파일들\ThreadServer\SeonHanCSharpSocketProject\ThreadServer\obj\Debug\netcoreapp3.1\ServerCore.pdb

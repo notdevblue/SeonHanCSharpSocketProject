@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iVC5DAhef9MYidBSXDvpdn1wefybBiwftuAn7CjRgsP2x85eJIyQ8lu0UpHDwuyLdePH4zevXrXnBtSbuj3Sgg==",
+  "dgSpecHash": "/Wim11w8qBFfQh2H8rsv92xUtI5+Gj1svHiYqfyhmPur3leFuIWVue0XDrJnF5r9sWKfM3o/2ZoYUIyGt65Zbw==",
   "success": true,
-  "projectFilePath": "F:\\학교 파일들\\ThreadServer\\Server\\Server.csproj",
+  "projectFilePath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

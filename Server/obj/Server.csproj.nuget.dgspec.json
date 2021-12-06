@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\학교 파일들\\ThreadServer\\Server\\Server.csproj": {}
+    "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\Server\\Server.csproj": {}
   },
   "projects": {
-    "F:\\학교 파일들\\ThreadServer\\Server\\Server.csproj": {
+    "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\학교 파일들\\ThreadServer\\Server\\Server.csproj",
+        "projectUniqueName": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "F:\\학교 파일들\\ThreadServer\\Server\\Server.csproj",
+        "projectPath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "F:\\학교 파일들\\ThreadServer\\Server\\obj\\",
+        "outputPath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\학교 파일들\\ThreadServer\\ThreadServer\\ServerCore.csproj": {
-                "projectPath": "F:\\학교 파일들\\ThreadServer\\ThreadServer\\ServerCore.csproj"
+              "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\ThreadServer\\ServerCore.csproj": {
+                "projectPath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\ThreadServer\\ServerCore.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "F:\\학교 파일들\\ThreadServer\\ThreadServer\\ServerCore.csproj": {
+    "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\ThreadServer\\ServerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\학교 파일들\\ThreadServer\\ThreadServer\\ServerCore.csproj",
+        "projectUniqueName": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\ThreadServer\\ServerCore.csproj",
         "projectName": "ServerCore",
-        "projectPath": "F:\\학교 파일들\\ThreadServer\\ThreadServer\\ServerCore.csproj",
+        "projectPath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\ThreadServer\\ServerCore.csproj",
         "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "F:\\학교 파일들\\ThreadServer\\ThreadServer\\obj\\",
+        "outputPath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\ThreadServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

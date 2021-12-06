@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJlAB4OwwcGIjn0bCX6zDpFwV34G4qkdtfXmT11vO80glFIwn6GI/0Tw8QvKuyT8T6h0aUo9RZdoxfteTGyaoA==",
+  "dgSpecHash": "uY9yJEv/smhjOjAFsRctV1G4tw/hZJlPN1++M8vTISvcfQf0XYk7jyfxS8tAqIibS8+RdyzhANp4J1seGlbzMQ==",
   "success": true,
-  "projectFilePath": "F:\\학교 파일들\\ThreadServer\\DummyClient\\DummyClient.csproj",
+  "projectFilePath": "F:\\학교 파일들\\ThreadServer\\SeonHanCSharpSocketProject\\DummyClient\\DummyClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
